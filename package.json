@@ -1,0 +1,19 @@
+{
+  "name": "StyleRipper",
+  "version": "0.0.1",
+  "description": "Culminate a style sheet of used styles on a specified element",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaegow/StyleRipper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jaegow/StyleRipper/issues",
+    "email": "jaegow@gmail.com"
+  },
+  "scripts": {
+    "re-npm": "rm package-lock.json ; rm -rf node_modules ; npm install",
+    "start": "echo todo"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
